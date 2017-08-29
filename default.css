@@ -9,10 +9,11 @@
   width: 720px;
   background-color: #aaaaaa;
   border-radius: 5px;
+  box-shadow: 0 9px #999;
 }
 
 .display {
-  margin: 50px;
+  margin: 50px 50px 12px 50px;
   padding: 10px;
   text-align: right;
   border: 5px solid #000000;
@@ -23,7 +24,7 @@
 }
 
 .button {
-    margin: 50px;
+    margin: 12px 50px;
   padding: 25px;
   text-align: center;
   border: 1px solid #000000;
@@ -33,11 +34,12 @@
   font-size: 24px;
   font-family: monospace;
   font=weight: bold;
+  box-shadow: 0 9px #999;
 }
 
 
 .button2 {
-    margin: 50px;
+    margin: 12px 50px;
   padding: 25px;
   text-align: center;
   border: 1px solid #000000;
@@ -45,5 +47,6 @@
   background-color: 999999;
   width: 120px;
   font-size: 24px;
+  box-shadow: 0 9px #999;
 }
 </stlye>
