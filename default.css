@@ -1,9 +1,9 @@
 
+<style>
 * {
   font-family: monospaced;
 }
 
-<style>
 .outsideBox {
   margin: 50px;
   width: 720px;
@@ -11,8 +11,8 @@
 }
 
 .display {
-  margin: 50px;
-  padding: 25px;
+  margin: 25px;
+  padding: 10px;
   text-align: right;
   border: 5px solid #000000;
   border-radius: 5px;
@@ -27,6 +27,18 @@
   border: 1px solid #000000;
   border-radius: 5px;
   background-color: #ffffff;
+  width: 140px;
+  font-size: 24px;
+}
+
+
+.button {
+    margin: 25px;
+  padding: 25px;
+  text-align: right;
+  border: 1px solid #000000;
+  border-radius: 5px;
+  background-color: #777777;
   width: 140px;
   font-size: 24px;
 }
