@@ -23,23 +23,23 @@
 .button {
     margin: 25px;
   padding: 25px;
-  text-align: right;
+  text-align: center;
   border: 1px solid #000000;
   border-radius: 5px;
   background-color: #ffffff;
-  width: 140px;
+  width: 120px;
   font-size: 24px;
 }
 
 
-.button {
+.button2 {
     margin: 25px;
   padding: 25px;
-  text-align: right;
+  text-align: center;
   border: 1px solid #000000;
   border-radius: 5px;
-  background-color: #777777;
-  width: 140px;
+  background-color: #888888;
+  width: 120px;
   font-size: 24px;
 }
 </stlye>
