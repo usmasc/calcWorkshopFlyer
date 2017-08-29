@@ -1,7 +1,7 @@
 
 <style>
 * {
-  font-family: monospaced;
+  
 }
 
 .outsideBox {
@@ -18,6 +18,7 @@
   border-radius: 5px;
   background-color: #bbff00;
   font-size: 48px;
+  font-family: monospace;
 }
 
 .button {
@@ -29,6 +30,8 @@
   background-color: #ffffff;
   width: 120px;
   font-size: 24px;
+  font-family: monospace;
+  font=weight: bold;
 }
 
 
@@ -38,7 +41,7 @@
   text-align: center;
   border: 1px solid #000000;
   border-radius: 5px;
-  background-color: #888888;
+  background-color: 999999;
   width: 120px;
   font-size: 24px;
 }
