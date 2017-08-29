@@ -11,7 +11,7 @@
 }
 
 .display {
-  margin: 25px;
+  margin: 50px;
   padding: 10px;
   text-align: right;
   border: 5px solid #000000;
@@ -21,7 +21,7 @@
 }
 
 .button {
-    margin: 25px;
+    margin: 50px;
   padding: 25px;
   text-align: center;
   border: 1px solid #000000;
@@ -33,7 +33,7 @@
 
 
 .button2 {
-    margin: 25px;
+    margin: 50px;
   padding: 25px;
   text-align: center;
   border: 1px solid #000000;
