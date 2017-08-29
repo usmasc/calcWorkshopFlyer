@@ -1,0 +1,33 @@
+
+* {
+  font-family: monospaced;
+}
+
+<style>
+.outsideBox {
+  margin: 50px;
+  width: 720px;
+  background-color: #aaaaaa;
+}
+
+.display {
+  margin: 50px;
+  padding: 25px;
+  text-align: right;
+  border: 5px solid #000000;
+  border-radius: 5px;
+  background-color: #bbff00;
+  font-size: 48px;
+}
+
+.button {
+    margin: 25px;
+  padding: 25px;
+  text-align: right;
+  border: 1px solid #000000;
+  border-radius: 5px;
+  background-color: #ffffff;
+  width: 140px;
+  font-size: 24px;
+}
+</stlye>
