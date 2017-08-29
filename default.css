@@ -38,6 +38,19 @@
   box-shadow: 0 6px #999;
 }
 
+.small {
+    margin: 12px 50px;
+  padding: 25px;
+  text-align: center;
+  border: 1px solid #000000;
+  border-radius: 5px;
+  background-color: #ffffff;
+  width: 120px;
+  font-size: 12px;
+  font-family: monospace;
+  font=weight: bold;
+  box-shadow: 0 6px #999;
+}
 
 .button2 {
     margin: 12px 50px;
