@@ -10,6 +10,7 @@
   background-color: #aaaaaa;
   border-radius: 5px;
   box-shadow: 0 9px #999;
+  border: 2px solid #000000;
 }
 
 .display {
@@ -17,7 +18,7 @@
   padding: 10px;
   text-align: right;
   border: 5px solid #000000;
-  border-radius: 5px;
+  border-radius: 3px;
   background-color: #bbff00;
   font-size: 48px;
   font-family: monospace;
@@ -34,7 +35,7 @@
   font-size: 24px;
   font-family: monospace;
   font=weight: bold;
-  box-shadow: 0 9px #999;
+  box-shadow: 0 3px #999;
 }
 
 
@@ -47,6 +48,6 @@
   background-color: 999999;
   width: 120px;
   font-size: 24px;
-  box-shadow: 0 9px #999;
+  box-shadow: 0 3px #999;
 }
 </stlye>
