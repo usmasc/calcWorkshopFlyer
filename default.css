@@ -49,6 +49,15 @@
   background-color: #aaaaaa;
 }
 
+.bottom {
+  margin: 0px 50px;
+  padding: 0px;
+  text-align: center;
+  font-size: 12px;
+  font-family: monospace;
+  background-color: #ffffff;
+}
+
 .button2 {
     margin: 12px 50px;
   padding: 25px;
